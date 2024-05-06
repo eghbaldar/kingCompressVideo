@@ -1,0 +1,12 @@
+D:\_PROJECT_\kingCompressVideo\kingCompressVideo\kingCompressVideo.Application\bin\Debug\net6.0\kingCompressVideo.Application.deps.json
+D:\_PROJECT_\kingCompressVideo\kingCompressVideo\kingCompressVideo.Application\bin\Debug\net6.0\kingCompressVideo.Application.dll
+D:\_PROJECT_\kingCompressVideo\kingCompressVideo\kingCompressVideo.Application\bin\Debug\net6.0\kingCompressVideo.Application.pdb
+D:\_PROJECT_\kingCompressVideo\kingCompressVideo\kingCompressVideo.Application\obj\Debug\net6.0\kingCompressVideo.Application.csproj.AssemblyReference.cache
+D:\_PROJECT_\kingCompressVideo\kingCompressVideo\kingCompressVideo.Application\obj\Debug\net6.0\kingCompressVideo.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\_PROJECT_\kingCompressVideo\kingCompressVideo\kingCompressVideo.Application\obj\Debug\net6.0\kingCompressVideo.Application.AssemblyInfoInputs.cache
+D:\_PROJECT_\kingCompressVideo\kingCompressVideo\kingCompressVideo.Application\obj\Debug\net6.0\kingCompressVideo.Application.AssemblyInfo.cs
+D:\_PROJECT_\kingCompressVideo\kingCompressVideo\kingCompressVideo.Application\obj\Debug\net6.0\kingCompressVideo.Application.csproj.CoreCompileInputs.cache
+D:\_PROJECT_\kingCompressVideo\kingCompressVideo\kingCompressVideo.Application\obj\Debug\net6.0\kingCompressVideo.Application.dll
+D:\_PROJECT_\kingCompressVideo\kingCompressVideo\kingCompressVideo.Application\obj\Debug\net6.0\refint\kingCompressVideo.Application.dll
+D:\_PROJECT_\kingCompressVideo\kingCompressVideo\kingCompressVideo.Application\obj\Debug\net6.0\kingCompressVideo.Application.pdb
+D:\_PROJECT_\kingCompressVideo\kingCompressVideo\kingCompressVideo.Application\obj\Debug\net6.0\ref\kingCompressVideo.Application.dll

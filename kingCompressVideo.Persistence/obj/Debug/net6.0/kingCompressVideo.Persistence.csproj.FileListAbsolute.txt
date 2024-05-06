@@ -1,0 +1,12 @@
+D:\_PROJECT_\kingCompressVideo\kingCompressVideo\kingCompressVideo.Persistence\bin\Debug\net6.0\kingCompressVideo.Persistence.deps.json
+D:\_PROJECT_\kingCompressVideo\kingCompressVideo\kingCompressVideo.Persistence\bin\Debug\net6.0\kingCompressVideo.Persistence.dll
+D:\_PROJECT_\kingCompressVideo\kingCompressVideo\kingCompressVideo.Persistence\bin\Debug\net6.0\kingCompressVideo.Persistence.pdb
+D:\_PROJECT_\kingCompressVideo\kingCompressVideo\kingCompressVideo.Persistence\obj\Debug\net6.0\kingCompressVideo.Persistence.csproj.AssemblyReference.cache
+D:\_PROJECT_\kingCompressVideo\kingCompressVideo\kingCompressVideo.Persistence\obj\Debug\net6.0\kingCompressVideo.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\_PROJECT_\kingCompressVideo\kingCompressVideo\kingCompressVideo.Persistence\obj\Debug\net6.0\kingCompressVideo.Persistence.AssemblyInfoInputs.cache
+D:\_PROJECT_\kingCompressVideo\kingCompressVideo\kingCompressVideo.Persistence\obj\Debug\net6.0\kingCompressVideo.Persistence.AssemblyInfo.cs
+D:\_PROJECT_\kingCompressVideo\kingCompressVideo\kingCompressVideo.Persistence\obj\Debug\net6.0\kingCompressVideo.Persistence.csproj.CoreCompileInputs.cache
+D:\_PROJECT_\kingCompressVideo\kingCompressVideo\kingCompressVideo.Persistence\obj\Debug\net6.0\kingCompressVideo.Persistence.dll
+D:\_PROJECT_\kingCompressVideo\kingCompressVideo\kingCompressVideo.Persistence\obj\Debug\net6.0\refint\kingCompressVideo.Persistence.dll
+D:\_PROJECT_\kingCompressVideo\kingCompressVideo\kingCompressVideo.Persistence\obj\Debug\net6.0\kingCompressVideo.Persistence.pdb
+D:\_PROJECT_\kingCompressVideo\kingCompressVideo\kingCompressVideo.Persistence\obj\Debug\net6.0\ref\kingCompressVideo.Persistence.dll

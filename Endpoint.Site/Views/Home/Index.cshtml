@@ -1,0 +1,38 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">King Video Coversion & Compression</h1>
+    <p>Developed by Alimohammad Eghbaldar <a href="https://eghbaldar.ir">eghbaldar.ir</a>.</p>
+    <hr />
+    <button id="btnGetVideos">Get Videos</button>
+</div>
+<div>
+    <u id="ulistFiles"></u>
+</div>
+@section Scripts{
+    <script>
+        $(document).ready(function () {
+            // Handle button click event
+            $('#btnGetVideos').click(function () {
+                $.ajax({
+                    contentType: 'application/x-www-form-urlencoded',
+                    dataType: 'json',
+                    type: 'GET',
+                    url: 'home/GetVideos',
+                    success: function (data) {
+                        //alert(JSON.stringify(data));
+                        //alert(data.videos.length)
+                        for (var i = 0; i<=data.videos.length - 1; i++) {
+                            $("#ulistFiles").append("<li>" + data.videos[i] + "</li>")
+                        }
+                    },
+                    error: function (e) {
+                        alert(e);
+                    }
+                });
+            });
+        });
+    </script>
+}
