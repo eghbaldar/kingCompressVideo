@@ -1,3 +1,6 @@
 *.exe
+*.mp4
+*.mkv
+*.avi
 Endpoint.Site/wwwroot/ffmpeg.exe
 Endpoint.Site/bin/Debug/net6.0/ffmpeg.exe
