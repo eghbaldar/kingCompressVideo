@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "GqmaD4N8NCKJ1MnvswAXvnryrjAJSb3/o6PAjmlq2oo=",
+  "Hash": "1IeUlaZvCIAVRLwB00LuW3bleaXEMJ+6S986ldg8/hk=",
   "Source": "Endpoint.Site",
   "BasePath": "_content/Endpoint.Site",
   "Mode": "Default",
@@ -1088,12 +1088,12 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\_PROJECT_\\kingCompressVideo\\kingCompressVideo\\Endpoint.Site\\wwwroot\\originals\\avi.avi",
+      "Identity": "D:\\_PROJECT_\\kingCompressVideo\\kingCompressVideo\\Endpoint.Site\\wwwroot\\originals\\test.mp4",
       "SourceId": "Endpoint.Site",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\_PROJECT_\\kingCompressVideo\\kingCompressVideo\\Endpoint.Site\\wwwroot\\",
       "BasePath": "_content/Endpoint.Site",
-      "RelativePath": "originals/avi.avi",
+      "RelativePath": "originals/test.mp4",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1102,15 +1102,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\originals\\avi.avi"
+      "OriginalItemSpec": "wwwroot\\originals\\test.mp4"
     },
     {
-      "Identity": "D:\\_PROJECT_\\kingCompressVideo\\kingCompressVideo\\Endpoint.Site\\wwwroot\\originals\\avi2.avi",
+      "Identity": "D:\\_PROJECT_\\kingCompressVideo\\kingCompressVideo\\Endpoint.Site\\wwwroot\\originals\\test2.mp4",
       "SourceId": "Endpoint.Site",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\_PROJECT_\\kingCompressVideo\\kingCompressVideo\\Endpoint.Site\\wwwroot\\",
       "BasePath": "_content/Endpoint.Site",
-      "RelativePath": "originals/avi2.avi",
+      "RelativePath": "originals/test2.mp4",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1119,15 +1119,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\originals\\avi2.avi"
+      "OriginalItemSpec": "wwwroot\\originals\\test2.mp4"
     },
     {
-      "Identity": "D:\\_PROJECT_\\kingCompressVideo\\kingCompressVideo\\Endpoint.Site\\wwwroot\\originals\\avi2-78mb-784kb.txt",
+      "Identity": "D:\\_PROJECT_\\kingCompressVideo\\kingCompressVideo\\Endpoint.Site\\wwwroot\\originals\\test3.mp4",
       "SourceId": "Endpoint.Site",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\_PROJECT_\\kingCompressVideo\\kingCompressVideo\\Endpoint.Site\\wwwroot\\",
       "BasePath": "_content/Endpoint.Site",
-      "RelativePath": "originals/avi2-78mb-784kb.txt",
+      "RelativePath": "originals/test3.mp4",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1136,58 +1136,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\originals\\avi2-78mb-784kb.txt"
-    },
-    {
-      "Identity": "D:\\_PROJECT_\\kingCompressVideo\\kingCompressVideo\\Endpoint.Site\\wwwroot\\originals\\mkv.mkv",
-      "SourceId": "Endpoint.Site",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\_PROJECT_\\kingCompressVideo\\kingCompressVideo\\Endpoint.Site\\wwwroot\\",
-      "BasePath": "_content/Endpoint.Site",
-      "RelativePath": "originals/mkv.mkv",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\originals\\mkv.mkv"
-    },
-    {
-      "Identity": "D:\\_PROJECT_\\kingCompressVideo\\kingCompressVideo\\Endpoint.Site\\wwwroot\\originals\\mp4.mp4",
-      "SourceId": "Endpoint.Site",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\_PROJECT_\\kingCompressVideo\\kingCompressVideo\\Endpoint.Site\\wwwroot\\",
-      "BasePath": "_content/Endpoint.Site",
-      "RelativePath": "originals/mp4.mp4",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\originals\\mp4.mp4"
-    },
-    {
-      "Identity": "D:\\_PROJECT_\\kingCompressVideo\\kingCompressVideo\\Endpoint.Site\\wwwroot\\originals\\mpeg2.mpg",
-      "SourceId": "Endpoint.Site",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\_PROJECT_\\kingCompressVideo\\kingCompressVideo\\Endpoint.Site\\wwwroot\\",
-      "BasePath": "_content/Endpoint.Site",
-      "RelativePath": "originals/mpeg2.mpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\originals\\mpeg2.mpg"
+      "OriginalItemSpec": "wwwroot\\originals\\test3.mp4"
     }
   ]
 }

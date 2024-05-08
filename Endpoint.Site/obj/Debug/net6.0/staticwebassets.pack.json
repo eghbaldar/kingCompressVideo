@@ -249,28 +249,16 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "D:\\_PROJECT_\\kingCompressVideo\\kingCompressVideo\\Endpoint.Site\\wwwroot\\originals\\avi.avi",
-      "PackagePath": "staticwebassets\\originals\\avi.avi"
+      "Id": "D:\\_PROJECT_\\kingCompressVideo\\kingCompressVideo\\Endpoint.Site\\wwwroot\\originals\\test.mp4",
+      "PackagePath": "staticwebassets\\originals\\test.mp4"
     },
     {
-      "Id": "D:\\_PROJECT_\\kingCompressVideo\\kingCompressVideo\\Endpoint.Site\\wwwroot\\originals\\avi2-78mb-784kb.txt",
-      "PackagePath": "staticwebassets\\originals\\avi2-78mb-784kb.txt"
+      "Id": "D:\\_PROJECT_\\kingCompressVideo\\kingCompressVideo\\Endpoint.Site\\wwwroot\\originals\\test2.mp4",
+      "PackagePath": "staticwebassets\\originals\\test2.mp4"
     },
     {
-      "Id": "D:\\_PROJECT_\\kingCompressVideo\\kingCompressVideo\\Endpoint.Site\\wwwroot\\originals\\avi2.avi",
-      "PackagePath": "staticwebassets\\originals\\avi2.avi"
-    },
-    {
-      "Id": "D:\\_PROJECT_\\kingCompressVideo\\kingCompressVideo\\Endpoint.Site\\wwwroot\\originals\\mkv.mkv",
-      "PackagePath": "staticwebassets\\originals\\mkv.mkv"
-    },
-    {
-      "Id": "D:\\_PROJECT_\\kingCompressVideo\\kingCompressVideo\\Endpoint.Site\\wwwroot\\originals\\mp4.mp4",
-      "PackagePath": "staticwebassets\\originals\\mp4.mp4"
-    },
-    {
-      "Id": "D:\\_PROJECT_\\kingCompressVideo\\kingCompressVideo\\Endpoint.Site\\wwwroot\\originals\\mpeg2.mpg",
-      "PackagePath": "staticwebassets\\originals\\mpeg2.mpg"
+      "Id": "D:\\_PROJECT_\\kingCompressVideo\\kingCompressVideo\\Endpoint.Site\\wwwroot\\originals\\test3.mp4",
+      "PackagePath": "staticwebassets\\originals\\test3.mp4"
     },
     {
       "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Endpoint.Site.Microsoft.AspNetCore.StaticWebAssets.props",
